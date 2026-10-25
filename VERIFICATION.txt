@@ -1,0 +1,2 @@
+Verified with Maven 3.9.9: test sources compiled; mvn -Dcucumber.execution.dry-run=true test completed with BUILD SUCCESS and 6 scenarios, 0 undefined/ambiguous steps, 0 failures/errors.
+Dry-run only: browser actions and assertions were not executed in the build environment. Run mvn clean test on a machine with Chrome and internet access for browser validation.
